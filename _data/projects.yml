@@ -1,16 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# 1
+- project: Website directory
+  role: Developer
+  duration: 2011 &mdash; Present
+  url: "https://vseo.by"
+  description: The project began its development in 2011 and positioned itself as a white directory of Bynet sites. Since 2014 I have left the project and since then I have not taken part in it.
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
+# 2
+- project: Website with recipes
+  role: Developer
   duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  url: "https://kuharka.by"
+  description: The project was launched in 2015 and was closed in the same year for a number of reasons. Planned global development of the project
+
+# 3
+- project: And other websites of various subjects that have proven themselves among the audience
